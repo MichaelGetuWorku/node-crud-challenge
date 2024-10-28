@@ -89,5 +89,5 @@ exports.deletePerson = catchAsync(async (req, res, next) => {
   const [deletedPerson] = persons.splice(personIndex, 1);
 
   // Return the deleted person data to confirm successful deletion
-  res.status(200).json([]);
-});
+  res.status(204).json([]);
+});  

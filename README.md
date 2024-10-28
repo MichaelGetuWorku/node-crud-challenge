@@ -20,3 +20,7 @@ Your task is to implement simple CRUD API using in-memory database underneath.
 4. Requests to non-existing endpoints (e.g. `/some-non/existing/resource`) should be handled.
 5. Internal server errors should be handled and processed correctly.
 6. Make sure the api is accesible by frontend apps hosted on a different domain (cross-site resource sharing)
+
+
+## API Documentation
+`[API DOC](https://documenter.getpostman.com/view/15543315/2sAY4uC3DS)`
