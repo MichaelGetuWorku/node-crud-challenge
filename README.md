@@ -23,4 +23,4 @@ Your task is to implement simple CRUD API using in-memory database underneath.
 
 
 ## API Documentation
-`[API DOC](https://documenter.getpostman.com/view/15543315/2sAY4uC3DS)`
+[API DOC](https://documenter.getpostman.com/view/15543315/2sAY4uC3DS)
